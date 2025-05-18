@@ -1,0 +1,5 @@
+[bcy1235] Sun May 18 11:37:28 2025 +0900 analysis class diagram 작성 2e6964f
+[bcy1235] Sun May 18 10:46:32 2025 +0900 communication diagram 작성 ddf78a8
+[bcy1235] Tue May 13 21:43:28 2025 +0900 usecase description 작성 a33b14a
+[bcy1235] Tue May 13 21:15:44 2025 +0900 usecase diagram 작성 cb81f19
+[bcy1235] Tue May 13 20:59:29 2025 +0900 requirement list 작성 9ce6ae3
